@@ -60,7 +60,10 @@ function App() {
 
 
         </a>
-        <p></p>
+        <p>My name is Danya </p>
+          <p>
+              Mother
+          </p>
       </header>
     </div>
   );
